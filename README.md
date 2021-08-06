@@ -4,6 +4,8 @@ This repository shows how to sign transactions against the [Vega vesting contrac
 
 Check the script to see which constants need to be replaced, e.g. your private key needs to be provided.
 
+The relevant source can be found in [stake_or_unstake.js](https://github.com/MM0819/vega-signing-example/blob/main/stake_or_unstake.js).
+
 ## Install
 
 `yarn install`
